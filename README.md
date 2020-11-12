@@ -9,5 +9,5 @@ Although, for a small dataset, all data manipulation can be done in python. When
 Python can be used to analyze the data. 1) assign RFM scores based on the values, 2) perform K-means clustering and define the different groups of customers to be targeted by different marketing strategies. 
 
 ## Impact and Results
-Targeted segments of customers with high score in all three categories (RFM) to send promotion. Save promotion distribution budget and achieved more sales increase in revenue.
+Targeted segments of customers with high score in all three categories (RFM) to send promotion. Save promotion distribution budget and achieved more sales and increase in profit.
  
