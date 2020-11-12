@@ -9,7 +9,7 @@ Although, for a small dataset, all data manipulation can be done in python. When
 Python can be used to analyze the data. 1) assign RFM scores based on the values, 2) perform K-means clustering and define the different groups of customers to be targeted by different marketing strategies. 
 
 ## Impact and Results
-Targeted different segments of customers with different communications such that 1) best customers would feel valued and appreciated; 2) high spender would feel incentive to interact with the brand; 3) loyal but low spender would feel incentive to spend more; 4) churned customer would want to come back and try the brand again.
+Targeted different segments of customers with different communications such that 1) best customers would feel valued and appreciated; 2) high spender would feel incentive to interact with the brand more; 3) loyal but low spender would feel incentive to spend more; 4) churned customer would want to come back and try the brand again.
 
-It saves communication budget and achieved more sales and increase in profit.
+It cultivates loyal, high spending customers, saves communication/marketing budget and achieved more sales and increase in profit.
  
